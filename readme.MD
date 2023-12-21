@@ -31,5 +31,5 @@ I'm a highly skilled and experienced MLOPS Engineer with a passion for building 
 
 ## Experience
 
-- MLOPS Engineer, Company X, 2020-Present
-- Full Stack Developer, Company Y, 2016-2020
+- MLOPS Engineer, Comcast International, Feb 2017-Present
+- Full Stack Developer, Syntel, July 2014 - Jan 2017
