@@ -1,43 +1,35 @@
 # Vaishnavi - MLOPS Engineer
 
-Hi there! My name is Vaishnavi, and I am an MLOPS Engineer with 9+ years of experience in Full Stack development. In addition to this I have good amount of experience on MLOPS, Machine Learning, DevOPS, Observability, Cloud etc. 
+## About Me
 
-## Frontend Development
+I'm a highly skilled and experienced MLOPS Engineer with a passion for building and deploying machine learning models. I have a strong background in full stack development, with a focus on frontend development using React JS, HTML5, CSS3, and StyledComponents. I'm also proficient in backend technologies such as Python, Golang, and NODEJS. I have a deep understanding of CI/CD and web server technology, and I'm experienced in deploying applications with production-grade configurations on cloud platforms such as AWS and Cloudfoundry.
 
-I'm specialized in frontend development using React JS, HTML5, CSS3, and StyledComponents. I have a strong background in creating interactive and user-friendly web applications.
+## Technical Skills
 
-## Backend Development
+- Frontend Development: React JS, HTML5, CSS3, StyledComponents
 
-I'm specialized in Python, Golang and NODEJS with respect to backend technologies.
+- Backend Development: Python, Golang, NODEJS
 
-## Experience with CI/CD and Web Servers
+- CI/CD and Web Servers: Concourse, Jenkins, Kubernetes, shell scripting, terraform, cloud formation, makefile
 
-I have good experience in handling CI/CD deployment using Concourse & Jenkins.
+- MLOPS: Ray, MLflow, Kubeflow, Kubernetes, DataBricks
 
-## Cloud Providers
+- Observability: Jaeger, prometheus, thanos, grafana
 
-I have experience with cloud providers such as AWS and Cloudfoundry to deploy applications with production-grade configurations.
+- Machine Learning: LSTM for time series analysis, random forest for anomaly detection
 
-## DevOPS
+## Education
 
-I have 3+ years of experience in Kubernetes, shell scripting, terraform, cloud formation, makefile
+- Master's Degree in Data Science, BITS Pilani
+- Machine Learning Specialization Certification, Coursera
 
-## MLOPS
+## Projects
 
-I have experience with Ray, MLflow, Kubeflow, Kubernetes, DataBricks to deploy production ready applications.
+- Developed a system for RCA using traces of different microservices and representing them in the form of a DAG. Used LSTM for time series analysis and random forest for anomaly detection.
 
-## Observability
+- Built a production-ready platform with end-to-end observability through distributed tracing using Jaeger, prometheus, thanos, and grafana.
 
-I have an experience of setting up end-to-end observability for a production ready platform through distributed tracing using Jaeger, prometheus, thanos and grafana.
+## Experience
 
-## Machine learning
-
-- I have completed my Masters Degree in Data Science in BITS Pilani. 
-- I have Machine learning specialisation certification by coursera.
-- I performed dissertation on RCA using traces of different microservices and representing them in the form of DAG. For this I used LSTM for time series analysis and used Random forest for Anomaly detection.
-
-## Reach Me
-
-- Github: https://github.com/vaish1707
-- Personal Blog: https://medium.com/@abirami-vaishnavi
-- Personal Website: https://vaishnavi-portfolio.vercel.app/
+- MLOPS Engineer, Company X, 2020-Present
+- Full Stack Developer, Company Y, 2016-2020
